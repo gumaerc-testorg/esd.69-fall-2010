@@ -6,7 +6,7 @@ description: "The total United States health expenditure as percent of gross dom
   . As of 2008, the Organization for Economic Cooperation reported U. S. expenditure\
   \ on health as percent of gross domestic product was approximately 16%. (Image by\
   \ MIT OpenCourseWare. Source: WHO and OECD.)\r\n"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-69-seminar-on-health-care-systems-innovation-fall-2010/9e17f57a1d05a1db8261f0c200ad46a7_esd-69f10-th.jpg
+file: /media/courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010/9e17f57a1d05a1db8261f0c200ad46a7_esd-69f10-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'When national health-care spending was half of current rates, many called
@@ -16,6 +16,8 @@ image_metadata:
   credit: ''
   image-alt: The total United States health expenditure as percent of gross domestic
     product has grown from approximately 5% in 1960 to over 16% by 2010.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: United States Health Expenditure (thumbnail)
 uid: 9e17f57a-1d05-a1db-8261-f0c200ad46a7

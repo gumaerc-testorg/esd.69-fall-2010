@@ -2,8 +2,12 @@
 content_type: resource
 description: Lecture presentation on performance measures in various aspects of health
   care.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-69-seminar-on-health-care-systems-innovation-fall-2010/e5eea92b9ef534f02c19cdf111f699f3_MITESD_69F10_lecture4.pdf
+file: /media/courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010/e5eea92b9ef534f02c19cdf111f699f3_MITESD_69F10_lecture4.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Lectures and Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Performance Measures in Health Care
 uid: e5eea92b-9ef5-34f0-2c19-cdf111f699f3
