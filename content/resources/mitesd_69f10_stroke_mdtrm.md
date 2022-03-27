@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
+parent_uid: 5eb056da-11c2-0e68-b799-af70cb61050d
 resourcetype: Document
 title: Stroke Team Slides
 uid: 062b8e5f-27cf-56ab-d066-28948e74f4c2

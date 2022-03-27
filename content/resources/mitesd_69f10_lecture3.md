@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
+parent_uid: 5eb056da-11c2-0e68-b799-af70cb61050d
 resourcetype: Document
 title: Health Care Systems Overview
 uid: 564050f6-95a0-3aa4-51a1-b55b3456482e

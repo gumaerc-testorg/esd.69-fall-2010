@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
+parent_uid: 5eb056da-11c2-0e68-b799-af70cb61050d
 resourcetype: Document
 title: Predictive Modeling at Beth Israel Deaconess Medical Center
 uid: 686d68ce-cdae-a6bc-c03a-8b4e4df7371c

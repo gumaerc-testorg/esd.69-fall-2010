@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
+parent_uid: 5eb056da-11c2-0e68-b799-af70cb61050d
 resourcetype: Document
 title: Health Care Systems from a Health Policy Perspective
 uid: bb7e7c56-817a-12ac-12cd-3f918bc88aa2

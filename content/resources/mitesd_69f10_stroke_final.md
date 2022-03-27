@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
+parent_uid: 5eb056da-11c2-0e68-b799-af70cb61050d
 resourcetype: Document
 title: Improving Ischemic Stroke Care in the US and UK
 uid: 30d78a28-9ddb-c74a-3cc4-4507f6bd29f8
