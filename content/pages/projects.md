@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an overview of the three project teams for the
+  semester along with links to midterm presentations and final reports.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -13,6 +15,6 @@ Students will be assigned to teams to examine a specific health care problem, ap
 *   Stroke Team: Improving ischemic stroke care in the US and UK
 *   Predictive Modeling Team: Predictive modeling at Beth Israel Deaconess Medical Center; A short-term length of stay model of the cardiac ward
 
-See [midterm presentations]({{< baseurl >}}/pages/lecture-slides-and-reading-assignments#Student_midterm) presented in Lecture #5.
+See {{% resource_link 5eb056da-11c2-0e68-b799-af70cb61050d "midterm presentations" "#Student_midterm" %}} presented in Lecture #5.
 
-See [final reports]({{< baseurl >}}/pages/lecture-slides-and-reading-assignments#Student_final_) presented in Lecture #12.
+See {{% resource_link 5eb056da-11c2-0e68-b799-af70cb61050d "final reports" "#Student_final_" %}} presented in Lecture #12.
