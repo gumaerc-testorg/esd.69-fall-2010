@@ -7,6 +7,7 @@ description: "The total United States health expenditure as percent of gross dom
   \ on health as percent of gross domestic product was approximately 16%. (Image by\
   \ MIT OpenCourseWare. Source: WHO and OECD.)\r\n"
 file: /courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010/9e17f57a1d05a1db8261f0c200ad46a7_esd-69f10-th.jpg
+file_size: 8572
 file_type: image/jpeg
 image_metadata:
   caption: 'When national health-care spending was half of current rates, many called
