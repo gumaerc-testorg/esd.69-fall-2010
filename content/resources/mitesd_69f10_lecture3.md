@@ -4,6 +4,7 @@ description: Lecture presentation on health care systems from an engineering sys
   perspective, the LEAN approach, and the future of the United States health care
   system.
 file: /courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010/564050f695a03aa451a1b55b3456482e_MITESD_69F10_lecture3.pdf
+file_size: 4085756
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

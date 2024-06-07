@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work: a final report on predictive modeling at Beth
   Israel Deaconess Medical Center.'
 file: /courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010/686d68cecdaea6bcc03a8b4e4df7371c_MITESD_69F10_predmdlng_fnl.pdf
+file_size: 379805
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
