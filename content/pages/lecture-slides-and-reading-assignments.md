@@ -38,7 +38,7 @@ Introduction - Joseph Coughlin
  
 {{< tdclose >}}
 {{< tdopen >}}
-Leisen, Birgit, and Michael R. Hyman. "[Antecedents and Consequences of Trust in a Service Provider: The Case of Primary Care Physicians](http://dx.doi.org/10.1016/S0148-2963(02)00343-0)." _Journal of Business Research_ 57 (2004).
+Leisen, Birgit, and Michael R. Hyman. "{{% resource_link "48a3056d-0d45-47db-a607-204b14c5387e" "Antecedents and Consequences of Trust in a Service Provider: The Case of Primary Care Physicians" %}}." _Journal of Business Research_ 57 (2004).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,13 +55,13 @@ Slides ({{% resource_link bb7e7c56-817a-12ac-12cd-3f918bc88aa2 "PDF" %}})
 {{< tdopen >}}
 
 
-Institute of Medicine. "[Crossing the Quality Chasm: A New Health System for the 21st century](http://www.nap.edu/openbook.php?record_id=10027&page=1)." Washington, DC: National Academies Press, 2001. (Link to executive summary)
+Institute of Medicine. "{{% resource_link "951da821-7321-4fc1-8e53-0cd4b23babde" "Crossing the Quality Chasm: A New Health System for the 21st century" %}}." Washington, DC: National Academies Press, 2001. (Link to executive summary)
 
-Institute of Medicine. "Crossing the Quality Chasm: A New Health System for the 21st Century." Washington, DC: National Academies Press, 2001. Report Brief: ([PDF](http://books.nap.edu/html/quality_chasm/reportbrief.pdf))
+Institute of Medicine. "Crossing the Quality Chasm: A New Health System for the 21st Century." Washington, DC: National Academies Press, 2001. Report Brief: ({{% resource_link "6db2b7c5-1482-45d4-8d5f-5d957c88fbbd" "PDF" %}})
 
-Institute of Medicine. "[To Err is Human: Building a Safer Health Care System](http://www.nap.edu/openbook.php?record_id=9728&page=1)." Washington, DC: National Academies Press, 2000. (Link to executive summary)
+Institute of Medicine. "{{% resource_link "b6f98203-0b23-46f7-b340-0835c42174bd" "To Err is Human: Building a Safer Health Care System" %}}." Washington, DC: National Academies Press, 2000. (Link to executive summary)
 
-Institute of Medicine. "To Err is Human: Building a Safer Health Care System." Washington, DC: National Academies Press, 1999. Report Brief: ([PDF](http://www.nationalacademies.org/hmd/~/media/Files/Report%20Files/1999/To-Err-is-Human/To%20Err%20is%20Human%201999%20%20report%20brief.pdf))
+Institute of Medicine. "To Err is Human: Building a Safer Health Care System." Washington, DC: National Academies Press, 1999. Report Brief: ({{% resource_link "75775968-a724-44b1-8be8-eec736b4b0a6" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -82,9 +82,9 @@ Slides ({{% resource_link 564050f6-95a0-3aa4-51a1-b55b3456482e "PDF - 3.9MB" %}}
 
 Grunden, Naida. Chapter 2 in _The Pittsburgh Way to Efficient Healthcare: Improving Patient Care Using Toyota Based Methods_. New York, NY: Productivity Press. ISBN: 9781563273674.
 
-National Academy of Engineering and Institute of Medicine. "Building a Better Delivery System: A New Engineering/Healthcare Partnership." Washington, DC: National Academies Press, 2005. PDF Summary: ( [PDF](http://www.nap.edu/nap-cgi/report.cgi?record_id=11378&type=pdfxsum))
+National Academy of Engineering and Institute of Medicine. "Building a Better Delivery System: A New Engineering/Healthcare Partnership." Washington, DC: National Academies Press, 2005. PDF Summary: ( {{% resource_link "045f572e-e19d-4ec5-b10a-a0820485ea9f" "PDF" %}})
 
-Spear, Steven J. "[Fixing Health Care from the Inside, Today](http://hbr.org/2005/09/fixing-health-care-from-the-inside-today/ar/1#)." _Harvard Business Review_ (2005).
+Spear, Steven J. "{{% resource_link "0a44a6d7-1cda-42e3-a97b-a8902188a781" "Fixing Health Care from the Inside, Today" %}}." _Harvard Business Review_ (2005).
 
 
 {{< tdclose >}}
@@ -103,13 +103,13 @@ Slides ({{% resource_link e5eea92b-9ef5-34f0-2c19-cdf111f699f3 "PDF" %}})
 {{< tdopen >}}
 
 
-Maybin, Jo. "Briefing: Payment by Results." London, UK: King's Fund (October 2007). ([PDF](http://www.kingsfund.org.uk/document.rm?id=7210))
+Maybin, Jo. "Briefing: Payment by Results." London, UK: King's Fund (October 2007). ({{% resource_link "297de94d-9ea8-4faa-a5ed-11c680a3baec" "PDF" %}})
 
 Newhouse, Joseph. Selected excerpts from _Free for All? Lessons from the RAND Health Insurance Experiment._ Cambridge, MA: Harvard University Press: 1996. ISBN: 9780674319141.
 
 Review selected Web sites providing performance measures used in health care.
 
-Rosenthal, Meredith B., and R. Adams Dudley. "[Pay-for-Performance: Will the Latest Trend Improve Care](http://jama.ama-assn.org/content/297/7/740)?" _Journal of the American Medical Association_ 297, no. 7 (2007).
+Rosenthal, Meredith B., and R. Adams Dudley. "{{% resource_link "1ec223e0-488d-4b67-8a7b-c116414d5696" "Pay-for-Performance: Will the Latest Trend Improve Care" %}}?" _Journal of the American Medical Association_ 297, no. 7 (2007).
 
 
 {{< tdclose >}}
@@ -157,13 +157,13 @@ Systems perspectives on safety - Joseph Coughlin and guest Nancy Leveson
 {{< tdopen >}}
 
 
-Duvall, Tyler. "[Unclogging Transportation](http://www.nationalaffairs.com/publications/detail/unclogging-transportation)." _National Affairs_, no. 3 (Spring 2010).
+Duvall, Tyler. "{{% resource_link "0799220f-9b55-4bf5-907d-249aa24dd518" "Unclogging Transportation" %}}." _National Affairs_, no. 3 (Spring 2010).
 
-Leveson, Nancy. "A New Accident Model for Engineering Safer Systems." _Safety Science_ 42 (2004). ([PDF](http://sunnyday.mit.edu/accidents/safetyscience-single.pdf))
+Leveson, Nancy. "A New Accident Model for Engineering Safer Systems." _Safety Science_ 42 (2004). ({{% resource_link "106c6f21-4e91-4c14-b52a-66404daedf73" "PDF" %}})
 
-Leveson, Nancy. "Engineering for a Safer World." Draft, Section II and III (2010). Expected date of publication by MIT Press: Fall 2011. ([Online version](http://sunnyday.mit.edu/safer-world/))
+Leveson, Nancy. "Engineering for a Safer World." Draft, Section II and III (2010). Expected date of publication by MIT Press: Fall 2011. ({{% resource_link "bf5ccf51-98db-48fa-a084-6a008beb9298" "Online version" %}})
 
-Roy, Avik. "[Health Care and the Profit Motive](http://www.nationalaffairs.com/publications/detail/health-care-and-the-profit-motive)." _National Affairs_, no. 3 (Spring 2010).
+Roy, Avik. "{{% resource_link "c7f91566-1947-4545-b311-4cfe5059933a" "Health Care and the Profit Motive" %}}." _National Affairs_, no. 3 (Spring 2010).
 
 
 {{< tdclose >}}
@@ -210,7 +210,7 @@ Health care and information technology - Guest Peter Szolovits
  
 {{< tdclose >}}
 {{< tdopen >}}
-Stead, William W., and Herbert S. Lin, eds. "[Computational Technology for Effective Health Care: Immediate Steps and Strategic Directions](http://www.nap.edu/openbook.php?record_id=12572&page=1)." _National Research Council of the National Academies_. (2009).
+Stead, William W., and Herbert S. Lin, eds. "{{% resource_link "6af5304c-a66e-4d73-a0a5-06d55d8953ae" "Computational Technology for Effective Health Care: Immediate Steps and Strategic Directions" %}}." _National Research Council of the National Academies_. (2009).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -227,11 +227,11 @@ Variation and uncertainty in clinical decision I - Guests Steven J. Spear and Ka
 {{< tdopen >}}
 
 
-Mulley, Albert G. "[Accessing Patients' Utilities: Can the Ends Justify the Means](http://journals.lww.com/lww-medicalcare/Abstract/1989/03001/Assessing_Patients__Utilities__Can_the_Ends.21.aspx)?" _Medical Care_ 27, no. 3 (1989): S269-S281.
+Mulley, Albert G. "{{% resource_link "5ba00378-cbd0-4650-90df-c05c2e1e66a3" "Accessing Patients' Utilities: Can the Ends Justify the Means" %}}?" _Medical Care_ 27, no. 3 (1989): S269-S281.
 
 O'Connor, Annette M., Hilary A. Llewellyn-Thomas, and Ann Barry Flood. "Modifying Unwarranted Variations in Health Care: Shared Decision Making Using Patient Decision Aids." _Health Affairs_ (2004).
 
-Wennberg, John E. "[Unwarranted Variations in Healthcare Delivery: Implications for Academic Medical Centres](http://www.bmj.com/content/325/7370/961.extract)." _British Medical Journal_ 325 (2002).
+Wennberg, John E. "{{% resource_link "7affc3f2-e57a-4487-98c1-3f14dae458a3" "Unwarranted Variations in Healthcare Delivery: Implications for Academic Medical Centres" %}}." _British Medical Journal_ 325 (2002).
 
 
 {{< tdclose >}}
@@ -252,7 +252,7 @@ Variation and uncertainty in clinical decision II - Guest Karen Sepucha
 
 Sepucha, Karen, Floyd J. Fowler, Jr., and Albert G. Mulley. "Policy Support for Patient-Centered Care: The Need for Measureable Improvements in Decision Quality." _Health Affairs_ (2004).
 
-Sepucha, Karen, and Albert G. Mulley. "[A Perspective on the Patients' Role in Treatment Decisions](http://mcr.sagepub.com/content/66/1_suppl/53S.abstract)." _Medical Care Research and Review_ 66, no. 1 (2009).
+Sepucha, Karen, and Albert G. Mulley. "{{% resource_link "298e808e-345d-4474-99dc-90026359030f" "A Perspective on the Patients' Role in Treatment Decisions" %}}." _Medical Care Research and Review_ 66, no. 1 (2009).
 
 
 {{< tdclose >}}
